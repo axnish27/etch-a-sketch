@@ -1,0 +1,19 @@
+#grid {
+    display: grid;
+    height: 600px;
+    width: 600px;
+    margin: 65px auto;
+    border : 2px solid black;
+  }
+
+
+
+.cell {
+    background-color: white;
+    border: 0.5px solid;
+    border-color: whitesmoke;
+    border-radius: 5%;
+  }
+
+
+
